@@ -1,0 +1,14 @@
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\bin\Debug\netstandard2.0\MyCal.deps.json
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\bin\Debug\netstandard2.0\MyCal.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\bin\Debug\netstandard2.0\ref\MyCal.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\bin\Debug\netstandard2.0\MyCal.pdb
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.csprojAssemblyReference.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.AssemblyInfoInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.AssemblyInfo.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.csproj.CoreCompileInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\ref\MyCal.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\MyCal\MyCal\MyCal\obj\Debug\netstandard2.0\MyCal.pdb

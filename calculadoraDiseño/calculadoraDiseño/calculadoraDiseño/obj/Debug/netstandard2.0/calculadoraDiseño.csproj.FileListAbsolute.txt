@@ -1,0 +1,14 @@
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.csprojAssemblyReference.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.AssemblyInfoInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.AssemblyInfo.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.csproj.CoreCompileInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\ref\calculadoraDiseño.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\calculadoraDiseño.pdb
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\bin\Debug\netstandard2.0\calculadoraDiseño.deps.json
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\bin\Debug\netstandard2.0\calculadoraDiseño.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\bin\Debug\netstandard2.0\ref\calculadoraDiseño.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\bin\Debug\netstandard2.0\calculadoraDiseño.pdb
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\calculadoraDiseño\calculadoraDiseño\calculadoraDiseño\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"             
+             x:Class="farmersMarket.MainPage">
+
+    <FlexLayout Direction="Column" >
+        <StackLayout Orientation="Horizontal" >
+            <Image 
+                Source="farmer.jpg"  
+                HorizontalOptions="Center" 
+                VerticalOptions="Start"
+                WidthRequest = "420" />
+       </StackLayout>
+        
+       <StackLayout Orientation="Horizontal"  Padding="10">
+            <Label Text="&#xE806;" 
+                   FontSize="Large"            
+                   FontFamily="fontello" 
+                   HorizontalOptions="Start"
+                   VerticalOptions="Center"
+                   TextColor="Black"  >
+            </Label>
+            <Entry Placeholder="Buscar producto" 
+                   HorizontalOptions="FillAndExpand"/>
+       </StackLayout>
+        
+        <StackLayout Orientation="Vertical">
+            <ScrollView>
+                <Frame Margin="10">
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout Orientation="Vertical">
+                            <Label 
+                                Text="Cuarto de cuy"
+                                FontSize="Title"
+                                FontAttributes="Bold"
+                                HorizontalOptions="Start"/>
+                            <Label 
+                                Text="Cuarto de cuy, papas y ají"
+                                FontSize="Subtitle"
+                                HorizontalOptions="Start"/>
+                        </StackLayout>
+
+
+                        <StackLayout 
+                            Orientation="Vertical"  
+                            HorizontalOptions="EndAndExpand" >
+
+                            <Label
+                                Text="$11.200"
+                                FontSize="Medium"
+                                FontAttributes="Bold"
+                                HorizontalOptions="Center"/>
+
+                            <StackLayout 
+                                Orientation="Horizontal" >
+                                <Label 
+                                    Text="&#xE802;"
+                                    FontSize="40"
+                                    FontFamily="fontello"
+                                    TextColor="Yellow"
+                                    Margin="0,0,20,0"/>
+                                <Label 
+                                    Text="&#xE803;"
+                                    FontSize="40"
+                                    FontFamily="fontello"
+                                    TextColor="Green"/>
+                            </StackLayout>
+                        </StackLayout>
+
+                    </StackLayout>
+                </Frame>
+            </ScrollView>
+        </StackLayout>
+
+        <StackLayout
+            Orientation="Horizontal" >
+            <Label 
+                Text="&#xE803;"
+                FontSize="40"
+                FontFamily="fontello"
+                TextColor="Green"
+                HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+        
+    </FlexLayout>
+    
+
+</ContentPage>

@@ -1,0 +1,14 @@
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\bin\Debug\netstandard2.0\farmersMarket.deps.json
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\bin\Debug\netstandard2.0\farmersMarket.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\bin\Debug\netstandard2.0\ref\farmersMarket.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\bin\Debug\netstandard2.0\farmersMarket.pdb
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.csprojAssemblyReference.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.AssemblyInfoInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.AssemblyInfo.cs
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.csproj.CoreCompileInputs.cache
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\ref\farmersMarket.dll
+E:\Daniel\UNIVERSIDAD\X Semestre\Xamarin\proyectos\farmersMarket\farmersMarket\farmersMarket\obj\Debug\netstandard2.0\farmersMarket.pdb

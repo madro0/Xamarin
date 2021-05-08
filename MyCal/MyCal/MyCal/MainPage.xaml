@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyCal.MainPage">
+
+    <FlexLayout Direction="Column" >
+        <Frame BackgroundColor="Yellow">
+            <Label 
+                Text="MyCalc"
+                FontSize="30"
+                FontAttributes="Bold"
+                TextColor="White"
+                HeightRequest="40"
+                HorizontalOptions="Start">
+            </Label>
+        </Frame>
+
+        <StackLayout Orientation="Vertical" Padding="10,0,10,0">
+            <Label
+                Padding="0,20,0,0"
+                Text="First Number"/>
+
+            <Entry
+                x:Name="number1"/>
+
+            <Label
+                Padding="0,20,0,0"
+                Text="Secound Number"/>
+            <Entry
+                x:Name="number2"/>
+
+            <Picker 
+                Title="Select a monkey"
+                TitleColor="Green"
+                TextColor="Orange"
+                FontAttributes="Italic"
+                FontSize="24"
+                x:Name="picker"
+                SelectedIndexChanged="pickerSelectIndex">
+                
+                
+
+            </Picker>
+            <Button
+               Text="Get Result"
+               TextColor="White"
+                BackgroundColor="Red">
+            </Button>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label 
+                Text="0"
+                FontSize="Header"
+                FontAttributes="Bold"
+                x:Name="txtResultado"/>
+        </StackLayout>
+        
+        
+    </FlexLayout>
+
+</ContentPage>
